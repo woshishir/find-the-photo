@@ -1,0 +1,7 @@
+interface:
+  display_name: "Find the Photo"
+  short_description: "Find one unexpected photograph hidden inside an image"
+  default_prompt: "Use $find-the-photo to find one genuinely unexpected source-aspect photograph inside this image, preserving the raw crop and processing only when required."
+
+policy:
+  allow_implicit_invocation: true
